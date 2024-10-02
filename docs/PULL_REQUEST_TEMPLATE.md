@@ -1,19 +1,19 @@
 # Tipo de usuario
 - [ ] Alfa
 - [ ] Bravo 
-- [ ] Charlie
+- [x] Charlie
 - [ ] Delta
 - [ ] Echo
 
 # Tecnología
-- [ ] HTML 
-- [ ] Json 
+- [x] HTML 
+- [x] Json 
 - [ ] Archivo plano (.txt) 
-- [ ] Javascript 
-- [ ] Markdown / .md
+- [x] Javascript 
+- [x] Markdown / .md
 
 # Seleccione el tipo de actividad
-- [ ] Feature
+- [x] Feature
 - [ ] Changes
 - [ ] Hotfix
 - [ ] Refactor
